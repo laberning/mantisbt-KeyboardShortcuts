@@ -1,0 +1,24 @@
+/*
+* Copyright (c) 2012 - 2015 Lars Berning <lars.berning@teambits.de> 
+* Released under the MIT license
+*/
+#shortcut_status {
+    background: #f00;
+    color: #fff;
+    padding: 5px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#hint_area {
+    border: solid 1px black;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    padding: 10px;
+    background-color:lightgray;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);}
+}
